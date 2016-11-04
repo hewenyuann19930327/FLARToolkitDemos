@@ -1,0 +1,2 @@
+# FLARToolkitDemos
+FLARToolkit for ActionScript 3.0 。support SingleMarkerDetector、MultiMarkerDetector、CardEmulatorMarkerDetector
